@@ -1,0 +1,15 @@
+{
+	"description": "kuban-wepy-project",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wxaa97c0420c4702fd",
+	"projectname": "kuban-wepy-project",
+	"miniprogramRoot": "./dist",
+	"condition": {}
+}
