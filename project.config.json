@@ -9,7 +9,7 @@
 	},
 	"compileType": "miniprogram",
 	"appid": "wxaa97c0420c4702fd",
-	"projectname": "kuban-wepy-project",
+	"projectname": "wepy-project",
 	"miniprogramRoot": "./dist",
 	"condition": {}
 }
